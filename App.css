@@ -1,0 +1,19 @@
+.hero-section {
+  height: 80vh;
+  background-size: cover;
+  color: white;
+}
+
+.special-offer {
+  height: 60vh;
+  color: white;
+}
+
+.nav-link-hover {
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+.nav-link-hover:hover {
+  color: #ffdd57; /* Change to your desired hover color */
+}
